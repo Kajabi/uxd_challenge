@@ -8,6 +8,7 @@ The overall goal of this challenge is to create a prototype component using HTML
 
 Here's the process:
 
+1. Clone this repo to make your own copy and a safe place to complete the challenge.
 1. Review [this Figma mockup](https://www.figma.com/file/XfwsvOqsrt4nLTUCHdcBP7/Challenge-Latest?node-id=0%3A1) for a fictitious new component that is similar to something you might build on the job with us. _Note:_ If you're new to Figma, that's ok! See the section below, "Regarding Figma."
 1. Use the starter file set provided in this repo within the `src/` folder to recreate this component. 
 
