@@ -4,7 +4,7 @@ Welcome! We're excited you're interested in joining the Kajabi UX Developer (UXD
 
 ## Your challenge, should you choose to accept it...
 
-The overall goal of this challenge is to create a prototype component using HTML and CSS based on a provided design mockup. Please don't spend more than 4 hours on the challenge.
+The overall goal of this challenge is to create a prototype component using HTML and CSS based on a provided design mockup. We'd like to see this returned to us within one week and don't expect you to spend more than 4 hours on it overall.
 
 Here's the process:
 
