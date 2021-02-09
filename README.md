@@ -4,11 +4,10 @@ Welcome! We're excited you're interested in joining the Kajabi UX Developer (UXD
 
 ## Your challenge, should you choose to accept it...
 
-The overall goal of this challenge is to create a prototype component using HTML and CSS based on a provided design mockup. We'd like to see this returned to us within one week and don't expect you to spend more than 4 hours on it overall.
+The overall goal of this challenge is to create a prototype component using HTML and CSS based on a provided design mockup. **We would ideally like for you to return this challenge within one week.**
 
 Here's the process:
 
-1. Clone this repo to make your own copy and a safe place to complete the challenge.
 1. Review [this Figma mockup](https://www.figma.com/file/XfwsvOqsrt4nLTUCHdcBP7/Challenge-Latest?node-id=0%3A1) for a fictitious new component that is similar to something you might build on the job with us. _Note:_ If you're new to Figma, that's ok! See the section below, "Regarding Figma."
 1. Use the starter file set provided in this repo within the `src/` folder to recreate this component. 
 
@@ -22,7 +21,7 @@ Here's the process:
     - While we hope to see the mockup built as shown, there may be aspects of the component that present some questions to you and affect your approach. Go ahead with your best guess or assumption but feel free to articulate your thought process in the provided `NOTES.md`.
     - Along these lines, please provide any additional explanation or background on your solution in the `NOTES.md` file that you think would be helpful to those who review your solution.
 
-1. When finished, ensure that your finished solution is contained on the `main` branch of your cloned version of this repository. Then **share your repo's URL with your primary contact at Kajabi.** They will pass it on to reviewers on the UXD team.
+1. Set up a Github repo containing your finished work on the `main` branch. Then **share your repo's URL with your primary contact at Kajabi.** They will pass it on to reviewers on the UXD team.
 
 If you have any questions or concerns about the task or anything related to completing and submitting the project please let your primary contact at Kajabi know.
 
