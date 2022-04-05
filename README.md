@@ -22,6 +22,8 @@ Here's the process:
     - Along these lines, please provide any additional explanation or background on your solution in the `NOTES.md` file that you think would be helpful to those who review your solution.
 
 1. Set up a GitHub repo containing your finished work on the `main` branch. Then **share your repo's URL with your primary contact at Kajabi.** They will pass it on to reviewers on the UXD team.
+    - The repo can be private with access granted to the reviewer(s).
+    - You can also zip the files and email to the hiring team.
 
 If you have any questions or concerns about the task or anything related to completing and submitting the project, please let your primary contact at Kajabi know.
 
